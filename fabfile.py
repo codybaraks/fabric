@@ -1,6 +1,7 @@
 
 from fabric.api import cd, env, lcd, put, prompt, local, sudo
 from fabric.contrib.files import exists
+import fabric.main
 
 
 ##############
