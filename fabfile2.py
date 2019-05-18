@@ -18,8 +18,8 @@ remote_nginx_dir = '/etc/nginx/sites-enabled'
 remote_supervisor_dir = '/etc/supervisor/conf.d'
 
 env.hosts = ['51.254.210.77']  # replace with IP address or hostname
-env.user = 'root'
-env.password = 'command.1'
+env.user = 'forecast'
+env.password = 'qfd08iY8'
 
 
 def install_db():
